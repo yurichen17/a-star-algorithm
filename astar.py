@@ -181,7 +181,7 @@ def search(maze, cost, start, end):
             
             
 if __name__ == '__main__':
-
+    #HI CONNER. my code starts here if you're looking
     img = Image.open("union2_pixel_map.png")
     np_img=np.array(img)
     np_img=np_img.astype(int)
